@@ -17,7 +17,7 @@ import com.luck.picture.lib.tools.PictureFileUtils;
 import com.luck.picture.lib.tools.SdkVersionUtils;
 import com.luck.picture.lib.tools.StringUtils;
 import com.luck.picture.lib.tools.ToastUtils;
-import com.yalantis.ucrop.UCrop;
+import com.javely.ucrop.UCrop;
 
 import java.io.File;
 import java.util.ArrayList;

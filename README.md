@@ -205,9 +205,9 @@ PictureSelector.create(this).externalPictureVideo(video_path);
 -keep class com.luck.picture.lib.** { *; }
 
 #Ucrop
--dontwarn com.yalantis.ucrop**
--keep class com.yalantis.ucrop** { *; }
--keep interface com.yalantis.ucrop** { *; }
+-dontwarn com.javely.ucrop**
+-keep class com.javely.ucrop** { *; }
+-keep interface com.javely.ucrop** { *; }
 
 
 ```

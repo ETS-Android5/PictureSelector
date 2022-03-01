@@ -23,10 +23,9 @@ plugins {
 publishing {
     publications {
         mavenJava(MavenPublication) {
-            groupId = 'com.velymonkeys'
+            groupId = 'com.luck.picture.lib'
             artifactId = 'pictureselector'
             version = '0.1'
-
 //            from components.java
         }
     }
